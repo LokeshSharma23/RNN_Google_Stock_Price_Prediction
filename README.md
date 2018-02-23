@@ -1,5 +1,5 @@
 # RNN_Google_Stock_Price_Prediction
-Predicting Google Stock Price Treds using Recurrent Neural Network and Keras-Tensorflow Backend
+Predicting Google Stock Price Trends using Recurrent Neural Network and Keras-Tensorflow Backend
 
 Dataset: Google's stock price data from 2012 to 2016.
 
