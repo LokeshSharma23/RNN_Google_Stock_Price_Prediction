@@ -11,7 +11,7 @@ Model Building Steps:
 5. Building Recurrent Neural Network Model
 6. Importing Keras Libraries using Tensorflow Backend
 7. Initializing the RNN using Sequential class
-8. Adding four LSTM(Low Short Term Memory layers) and perfoming regularisation using Dropout
+8. Adding four LSTM(Long Short Term Memory layers) and perfoming regularisation using Dropout
 9. Adding final output layer using Dense module
 10. Compiling the RNN network.
 11. Fitting the model to the training set
