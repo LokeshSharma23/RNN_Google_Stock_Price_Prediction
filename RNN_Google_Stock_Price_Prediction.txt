@@ -1,0 +1,24 @@
+# RNN_Google_Stock_Price_Trend_Prediction
+
+Objective : To predict the trends of Google Stock Price using Recurrent Neural Networks using 
+            Keras-Tensorflow backend
+
+Dataset: Dataset consists of 5 years Google's stock price data.
+
+Model Building Steps:
+1. Importing libraries
+2. Importing the training dataset
+3. Feature Scaling using MinMaxScaler
+4. Creating datastructure with 100 timestamps
+5. Building Recurrent Neural Network Model
+6. Importing Keras Libraries using Tensorflow Backend
+7. Initializing the RNN using Sequential class
+8. Adding four LSTM(Long Short Term Memory layers) and perfoming regularisation using Dropout
+9. Adding final output layer using Dense module
+10. Compiling the RNN network.
+11. Fitting the model to the training set
+12. Making prediction on the test set
+13. Visualization of Real vs Predicted Stock Trends using Matplotlib
+
+
+Reference: Udemy Machine Learning
